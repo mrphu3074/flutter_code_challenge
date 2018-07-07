@@ -4,7 +4,7 @@ Coding challenge is my favorite game, it helps me fast learn, more practice and 
 
 ---- 
 ## #1: Clone Youtube video screen animation
-![Alt text](/assets/youtube_demo.gif?raw=true "#1 - Youtube animation")
+<img src="/assets/youtube_demo.gif" width="400px" />
 
 
 
